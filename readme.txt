@@ -10,3 +10,4 @@ linha nova
 adicionado na versão fork
 alteraao em 240821 2017
 alterado as 2030
+alteracaoo 2048
